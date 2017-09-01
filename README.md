@@ -1,3 +1,17 @@
+# Test repo for Open Data profived by Municipality of Šiauliai
+
+## Set up
+
+`npm install`
+
+`npm run` - will spin up a dev server
+
+Used [Create React App](https://github.com/facebookincubator/create-react-app) to start the project. Original Readme file below.
+
+- EK
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
